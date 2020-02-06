@@ -1,2 +1,2 @@
 # WhatsAppTest
-Test einies WhatsApp Interfaces
+Test eines WhatsApp Interfaces
