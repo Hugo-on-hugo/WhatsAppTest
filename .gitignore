@@ -1,3 +1,9 @@
+# Twilio Datei
+Twilio.txt
+Scripts/
+Include/
+Lib/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
